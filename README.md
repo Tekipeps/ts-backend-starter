@@ -5,7 +5,7 @@
 - Typescript
 - Express 
 - Eslint
-- [Prisma ORM]('https://www.prisma.io/')
+- [Prisma ORM](https://www.prisma.io/)
 - Eslint
 - Request logger middleware
 - Error handler middleware
